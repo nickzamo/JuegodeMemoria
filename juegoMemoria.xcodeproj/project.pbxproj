@@ -47,6 +47,7 @@
 		019CF9DE1C67CCBF005E2EBA /* juegoMemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = juegoMemoriaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		019CF9E21C67CCBF005E2EBA /* juegoMemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = juegoMemoriaUITests.swift; sourceTree = "<group>"; };
 		019CF9E41C67CCBF005E2EBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		019CF9F01C67CCD4005E2EBA /* juegoMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		019CF9B61C67CCBF005E2EBA = {
 			isa = PBXGroup;
 			children = (
+				019CF9F01C67CCD4005E2EBA /* juegoMemoria.playground */,
 				019CF9C11C67CCBF005E2EBA /* juegoMemoria */,
 				019CF9D61C67CCBF005E2EBA /* juegoMemoriaTests */,
 				019CF9E11C67CCBF005E2EBA /* juegoMemoriaUITests */,
