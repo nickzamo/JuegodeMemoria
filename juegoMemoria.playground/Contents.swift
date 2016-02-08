@@ -8,15 +8,15 @@ for a in rango
     
     if (a%5)==0
     {
-        print("#\(a)Bingo!!!")
+        print("#\(a) Bingo!!!")
     }
     if (a%2)==0
     {
-        print("#\(a)par")
+        print("#\(a) par")
     }
     if ((a%2)>0)
     {
-        print("#\(a)impar")
+        print("#\(a) impar")
     }
     
     
